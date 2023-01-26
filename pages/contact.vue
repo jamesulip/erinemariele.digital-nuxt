@@ -4,7 +4,7 @@
   <div class="flex w-full">
     <div class="m-auto grid grid-cols-2  max-w-2xl gap-10">
       <!-- create a form for name email and message -->
-     <div class="flex">
+     <div class="sm:flex hidden">
       <Logo class="w-full h-full m-auto opacity-5"  :color="'black'"/>
      </div>
      <form class="flex flex-col gap-5 font-['Josefin_Sans']">
